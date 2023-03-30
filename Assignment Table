@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Time table</title>
+    <h1>
+      <a style = "Background-color:yellow">Time table for College
+      </a>
+    </h1>
+  </head>
+  <body>
+    <p>
+      Lets see weekly time table which is students must be follow.
+      <table border = "" height= "90px" width = "">
+        <caption>Time Table </caption>
+        <thead>
+        <tr>
+          <th>Days<th/>
+            <th>Period 1<th/>
+              <th>Period 2<th/>
+                <th>Period 3<th/>
+                  <th>Period 4<th/>
+                    <th>Break<th/>
+                      <th>Period 5<th/>
+        </tr>
+        </thead>
+         <tbody>
+        <tr>
+          <td><strong>Monday</strong></td>
+          <td></td>
+          <td>9:00 am</td>
+          <td></td>
+          <td>9:30 am</td>
+          <td></td>
+          <td>10:00 am</td>
+          <td></td>
+          <td>10:30am</td>
+          <td></td>
+          <td>11:00am</td>
+          <td></td>
+          <td>12:00 pm</td>
+        </tr>
+        <tr>
+          <td><strong>Tuesday</strong></td>
+          <td></td>
+          <td>9:00 am</td>
+          <td></td>
+          <td>9:30 am</td>
+          <td></td>
+          <td>10:00 am</td>
+          <td></td>
+          <td>10:30am</td>
+          <td></td>
+          <td>11:00am</td>
+          <td></td>
+          <td>12:00 pm</td>
+           </tr>
+           <tr>
+             <td><strong>Wednesday</strong></td>
+          <td></td>
+          <td>9:00 am</td>
+          <td></td>
+          <td>9:30 am</td>
+          <td></td>
+          <td>10:00 am</td>
+          <td></td>
+          <td>10:30am</td>
+          <td></td>
+          <td>11:00am</td>
+          <td></td>
+          <td>12:00 pm</td>
+           </tr>
+           <tr>
+             <td><strong>Thursday</strong></td>
+          <td></td>
+          <td>9:00 am</td>
+          <td></td>
+          <td>9:30 am</td>
+          <td></td>
+          <td>10:00 am</td>
+          <td></td>
+          <td>10:30am</td>
+          <td></td>
+          <td>11:00am</td>
+          <td></td>
+          <td>12:00 pm</td>
+             </tr>
+           <tr>
+             <td><strong>Friday</strong></td>
+          <td></td>
+          <td>9:00 am</td>
+          <td></td>
+          <td>9:30 am</td>
+          <td></td>
+          <td>10:00 am</td>
+          <td></td>
+          <td>10:30am</td>
+          <td></td>
+          <td>11:00am</td>
+          <td></td>
+          <td>12:00 pm</td>
+           </tr>
+           <tr>
+             <td><strong>Saturday</strong></td>
+          <td></td>
+          <td>9:00 am</td>
+          <td></td>
+          <td>9:30 am</td>
+          <td></td>
+          <td>10:00 am</td>
+          <td></td>
+          <td>10:30am</td>
+          <td></td>
+          <td>11:00am</td>
+          <td></td>
+          <td>12:00 pm</td>
+           </tr>
+           <tr>
+             <td><strong>Sunday</strong></td>
+             <th colspan = "12">Holiday</th>
+           </tr>
+           
+           </body>
+      </table>
+    </p>
+  </body>
+</html>
